@@ -1,0 +1,7 @@
+create database todo_app;
+use todo_app;
+
+show tables;
+
+select * from todo;
+select * from todo_seq;
